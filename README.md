@@ -7,3 +7,5 @@ Esta línea se ha añadido posteriormente
 
 ---
 Esta es una edición del archivo readme desde el "codespace"
+---
+Línea añadida desde VSCode
